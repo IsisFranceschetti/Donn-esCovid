@@ -34,7 +34,9 @@ Dans le même temps, le taux d’incidence n’est pas non plus lié uniquement 
 
 **Evolution de la propagation du virus et du respect des gestes barrières entre les vagues 6 et 8 pour tous les départements de PACA**
 
+![Evolution taux d'incidence](https://user-images.githubusercontent.com/74712329/99669261-c9625080-2a3c-11eb-98ec-b9d222838970.png)
 
+![Evolution gestes barrières](https://user-images.githubusercontent.com/74712329/99669264-c9625080-2a3c-11eb-8446-ca03d9bd3ab8.png)
 
 
 Clé de lecture : 1000 étant le respect le plus parfait des gestes barrières
@@ -49,13 +51,13 @@ A l'inverse, le Var, qui est le seul département à voir son nombre de cas posi
 
 **Evolution du respect des gestes barrières entre les vagues 6 et 8 dans le Var, le Vaucluse et les Alpes-Maritimes
 
-
+![Focus Gestes barrières Var Vaucluse Alpes Maritimes](https://user-images.githubusercontent.com/74712329/99669257-c8c9ba00-2a3c-11eb-8a21-ef5c629fc97b.png)
 
 Lecture : Plus le nombre se rapproche de 1000, plus les gestes barrières sont respectés. 
 
 **Evolution du nombre de cas positifs entre les vagues 6 et 8 dans le Var, le Vaucluse et les Alpes-Maritimes**
 
-
+![Focus cas covid Var Vaucluse Alpes Maritimes](https://user-images.githubusercontent.com/74712329/99669258-c8c9ba00-2a3c-11eb-916b-11895f668942.png)
 
 Cette  focale sur 3 départements permet de mettre en évidence de façon criante l'absence de corrélation entre les deux indicateurs. Alors que le respect des gestes barrières dans les Alpes-Maritimes chute de près de 20%, on note une diminution de près de 70% de la circulation du virus dans la même temporalité. 
 
