@@ -20,7 +20,8 @@ Nous avons par la suite utilisé les jeux de données provenant du baromètre CO
 D'un point de vue méthodologique, si l'extraction des données sur le nombre de cas de Covid fut longue et fastidieuse mais finalement sans grandes difficultés, l'utilisation des diverses données relatives à l'isolement physique fut plus complexe. Ainsi, nous avons fait le choix d'établir une note moyenne à chaque individu selon ses réponses au respect des pratiques mentionnées plus haut (respect des distanciations sociales, lavage des mains etc), et en agrégeant celles-ci, afin d'attribuer à chaque département une note attestant de la mesure avec laquelle sa population observe ou non un certain isolement physique. 
 
 Il est primordial de noter que les données concernant le baromètre Covid-19 d’Ispos et de datacovid permettant d’établir une note du respect de la distance sociale et des gestes barrières se base sur des sondages et donc sur du déclaratif. Cela entraîne des biais. On peut noter par exemple qu’une personne peut surestimer son respect des gestes barrières et peut dans la réalité ne pas bien le faire (mauvais positionnement du masque, lavage des mains approximatif…) tandis qu’une personne peut sous-estimer son respect des gestes barrières
-
+** **
+![Respect des gestes barrières et cas de Covid](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.15752-9/125958720_1556792397823022_1602522125020029212_n.png)
 ** **
 
 Clé de lecture: de gauche à droite: Vaucluse, Var, Hautes-Alpes, Alpes Maritimes, Bouches du Rhône, Alpes de Haute-Provence. La taille des dots correspond à la population de chaque département. Plus l’indice d’isolement physique est proche de 1000, plus les gestes barrières et la distanciation sociale sont respectés.  
